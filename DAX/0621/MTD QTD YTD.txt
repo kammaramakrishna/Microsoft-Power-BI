@@ -1,0 +1,12 @@
+MTD QTD YTD
+What is my cumulative sales month, quarter, year?
+
+What is my financial year cumlative sales quantity?
+
+
+DimDate
+List.Dates(
+	#date(2016,1,1),
+	3650,
+	#duration(1,0,0,0)
+)
